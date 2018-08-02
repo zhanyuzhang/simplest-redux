@@ -1,0 +1,10 @@
+{
+  "name": "simplest-redux",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "parcel test.html --open"
+  },
+  "license": "MIT",
+  "devDependencies": {}
+}
